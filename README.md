@@ -69,4 +69,4 @@ pnpm start
 node .
 ```
 
-Once the server is running you can open `http://localhost:3000` to access the server
+Once the server is running you can open `http://localhost:3040` to access the server
